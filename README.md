@@ -26,7 +26,7 @@ With additional Parameter:
 This package is installed using pip.  The following command line will install the latest version of this component:
 
 ```
-pip install git+https://kochsource.io/PATRICK.BURRUS/kstcloudlogger
+pip install git+https://github.com/burrusp/kstcloudlogger
 ```
 
 
