@@ -13,5 +13,6 @@ class KSTCloudLogger:
         if Additional != None:
             for item in Additional:
                 logMessage[item] = Additional[item]
+        logMessage=json.dumps(logMessage)
         print(logMessage)        
 
